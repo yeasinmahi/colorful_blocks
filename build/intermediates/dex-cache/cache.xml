@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\support-compat-25.1.1.aar\c3e482e4347071a68904b9f8f8ce94fe\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\support-v4-25.1.1.aar\c3a08de121e5c4b5d6ceeb9a7039f17f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\play-services-base-10.2.0.aar\df8541fad8538b56e33c4122f7f4a421\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3d13e510077b35fe8e49930a627dd849ad5da0dc">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.1.1.aar\15528839a95b40fcf2d64990fc14bb1e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\play-services-basement-10.2.0.aar\00b4c953e2396f66e4ee34452f45c7ce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1ac56e5801e986583cbe27f2cce57f626cc7ff93">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\support-fragment-25.1.1.aar\1f1046ab79f534a4c51f349e1b24357a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.1.1.aar\05ce84f683ffe42cf4e7d0fc1f1c7be1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\play-services-gass-10.2.0.aar\e311f7ce772bc7ce39c116995c0257ce\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="857ce7350acf811749c8fd0254d3d39b02aa71f5">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-10.2.0.aar\16b1ca2dda063cf0ad5c1cc735ad173b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3f4483afd050f3be12db7838422309446a45daa1">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.1.1.aar\a7cc8dc9c82d8f4df11f9ea4cd849aea\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-10.2.0.aar\52641ac987e933da34a9c3ca7203f8d6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bd75f9f0296fe220da6d0ad961831b04541c4452">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-10.2.0.aar\898d11512929721a7840a219230f430a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4ef2d91da513c4d7e773ae438fe04d0e4c135957">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.1.1.aar\e62e235ccfb2f8c975ed209d637ffff0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.1.1.aar\9ddd367befb9e1992e7443047498dbbc\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.1.1.aar\7e577cf5ebb40ae0744702589776f7e1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Yeasin\.gradle\caches\transforms-1\files-1.1\play-services-ads-10.2.0.aar\9d9b9d8e8071778965f89dcce2b2a3d9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aa23e4589287adb431ef59d6c78af79ab8885682">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\SDK\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="17"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\Android\Android Games\Colorful Blocks\ColourfulBlocks\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+
+</items>
